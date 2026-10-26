@@ -1,0 +1,26 @@
+# ==== 温氏私有族谱数据（个人隐私，不进入公开仓库）====
+genealogy.json
+温氏族谱.json
+wen.json
+031国和第八代孙2.doc
+族谱_模板格式.docx
+
+# ==== 构建产物 / 缓存 ====
+build/
+dist_new/
+__pycache__/
+*.spec
+*.pyc
+
+# ==== 本地配置 / 临时文件 ====
+lastfile.txt
+pyi_log.txt
+*.log
+doc_raw.txt
+check_spouse_result.txt
+new_doc_preview.txt
+people_list.txt
+_t_fix*.py
+_t_result.txt
+.workbuddy/
+.idea/
